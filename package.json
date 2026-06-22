@@ -101,10 +101,10 @@
     "dotenv": "^17.0.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.15",
-    "@playwright/test": "^1.52.0",
+    "@biomejs/biome": "^2.5.0",
+    "@playwright/test": "^1.61.0",
     "husky": "^9.1.7",
-    "lint-staged": "^17.0.5",
-    "vitest": "^4.1.7"
+    "lint-staged": "^17.0.8",
+    "vitest": "^4.1.9"
   }
 }
